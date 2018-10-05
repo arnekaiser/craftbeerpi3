@@ -1,4 +1,0 @@
-craftbeerpi3:
-  image: craftbeerpi3
-  ports: 
-   - 5000:5000
